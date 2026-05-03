@@ -48,7 +48,7 @@ ollama serve
 Open **Termux** and paste the following command. This will update your system, download the setup script, and configure everything automatically:
 
 ```
-pkg update -y && pkg upgrade -y && pkg install curl -y && curl -sL https://raw.githubusercontent.com/AbuZar-Ansarii/Leaked-ClaudeCode/master/termux_setup.sh -o ~/termux_setup.sh && chmod +x ~/termux_setup.sh && bash ~/termux_setup.sh
+pkg update -y && pkg upgrade -y && pkg install curl -y && curl -sL https://github.com/ghost-nexon/openclaude/blob/main/install.sh -o ~/install.sh && chmod +x ~/install.sh && bash ~/install.sh
 ```
 ## ⚙️ How to Use
 ```
