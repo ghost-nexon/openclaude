@@ -29,7 +29,7 @@ Shizuku (Optional but Recommended): Required for autonomous UI interaction witho
 
 ## Shizuku Configuration (System Control)
 Shizuku is required to securely bypass the internal Android application sandbox. Without this service, your AI will not have the native authority to execute system commands.
-1. Install **Shizuku** from the Google Play Store.
+1. Install **Shizuku** from the .[Google Play Store](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
 2. Enable **Developer Options** on your Android device (tap "Build Number" 7 times under Settings > About Phone).
 3. Inside Developer Options, enable **Wireless Debugging**.
 4. Open the Shizuku application, select **Pairing**, and follow the on-screen instructions to authorize the service using an Android pairing code.
